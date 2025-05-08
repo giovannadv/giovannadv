@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Giovanna !
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Giovanna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando no sushikito<br/> Eu sou desenvolvedor de sushi</p>
