@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Giovanna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando no sushikito<br/> Eu sou desenvolvedor de sushi</p>
+<p>Não tenho nenhum trabalho ainda<br/> Estou aprendendo a desenvolver codigos</p>
