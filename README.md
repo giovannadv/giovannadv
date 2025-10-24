@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Giovanna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Não tenho nenhum trabalho ainda<br/> Estou aprendendo a desenvolver codigos</p>
+<p><br/> Estou aprendendo a desenvolver codigos</p>
