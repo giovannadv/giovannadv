@@ -1,26 +1,7 @@
-<div align="center">
-  <img src="https://vercel.app" />
-</div>
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=Giovanna&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<br/>
+### Olá, meu nome é Giovanna !
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://shields.io" />
-      <br/><br/>
-      <font size="4" face="georgia">
-        ✨ <i>"Transformando café em código e ideias em realidade."</i>
-      </font>
-      <br/><br/>
-      <img src="https://shields.io|%20CSS3%20|%20JS-f8efd4?style=flat-square&logoColor=783c00" />
-    </td>
-    <td width="50%" align="right">
-      <img width="380" src="https://vercel.app" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Giovanna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
+<p><br/> Estou aprendendo a desenvolver codigos</p>
