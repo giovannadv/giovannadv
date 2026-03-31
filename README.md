@@ -1,14 +1,15 @@
-<img align="right" width="400" src="https://vercel.app" alt="GitHub Stats">
+<table align="center" border="0">
+  <tr>
+    <td width="55%" align="left">
+      <h1> Olá, eu sou a Giovanna! 👋 </h1>
+      <img src="https://shields.io" alt="Status Badge">
+      <br><br>
+      <p><i>"Estou aprendendo a desenvolver códigos"</i> 🚀</p>
+    </td>
+    <td width="45%" align="right">
+      <img width="400" src="https://vercel.app" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
 
-# Olá, meu nome é Giovanna! 👋
-
-<img src="https://shields.io" alt="Static GitHub">
-
-<br/>
-
-> Estou aprendendo a desenvolver códigos. 🚀
-
-<br/>
-<br/>
-
----
+<img src="https://vercel.app" width="100%"/>
